@@ -17,7 +17,8 @@ dadzy-website/
 ├── css/
 │   └── style.css          # Main stylesheet
 ├── js/
-│   └── main.js            # JavaScript (forms, chatbox)
+│   └──main.js             # JavaScript (forms, chatbox)
+    └──chat.js 
 ├── images/
 │   └── favicon.svg        # Favicon
 └── sql/
