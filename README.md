@@ -87,16 +87,6 @@ Visit your website - everything should work!
 
 ---
 
-## 👥 Team
-
-| Role | Name |
-|------|------|
-| Founder | Aaban Hoda |
-| Co-Founder | Gaurav Panday |
-| CEO | Munesh Singh |
-
----
-
 ## 🛠 Services
 
 1. Brand Identity
