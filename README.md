@@ -108,3 +108,20 @@ Visit your website - everything should work!
 ---
 
 © 2024 DAdzy. Just getting started.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## ⭐ Support
+
+If you find this project useful, consider **starring the repository** on GitHub.
+
+---
+
+## 👨‍💻 Author
+       Gaurav Panday
