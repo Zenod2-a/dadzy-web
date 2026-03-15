@@ -76,14 +76,6 @@ Visit your website - everything should work!
 - ✅ Works WITHOUT database
 - ✅ Works WITHOUT external AI API
 
----
-
-## 📧 Contact Information
-
-- **Email:** dadzy74@gmail.com
-- **Phone:** +91 9155322282
-- **Alternate:** +91 7989953154
-- **Location:** Hyderabad, India
 
 ---
 
